@@ -11,3 +11,5 @@ To perform these analyses, you must collect a reference library to be used for a
 These scripts were written in R version 4.4.0 and use packages: minpack.lm, ggplot2, zoo.
 
 Nonlinear least-squares regression was conducted using routines for nonlinear least-squares optimisation in the minpack.lm package available in R (Elzhov, T. V. et al R Interface to the Levenberg-Marquardt Nonlinear Least-Squares Algorithm Found in MINPACK, Plus Support for Bounds, version 1.2-4, September 11, 2023).
+
+This code accompanies the paper titled "Rapid mitochondrial repolarisation upon reperfusion after cardiac ischaemia." 
